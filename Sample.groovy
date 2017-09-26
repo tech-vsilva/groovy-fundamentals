@@ -1,0 +1,1 @@
+println "I'm a simple Groovy script"
